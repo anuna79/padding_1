@@ -1,0 +1,13 @@
+.box{
+    padding-left: 95px;
+    padding-top: 71px;
+    width: 550px;
+    height: 550px;
+    background-color: #F9DFDF;
+    border: solid 1px #FF0000
+    ;
+}
+p{
+    color: #FF0000;
+    font-size: 16px;
+}
